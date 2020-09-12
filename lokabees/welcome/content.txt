@@ -1,8 +1,8 @@
 ******************
-Hallo {{name}}
+Hallo {{name}},
 ******************
 
-Willkommen bei Lokabees!
+willkommen bei Lokabees!
 
 Mit uns wird deine Digitalisierung spielend einfach - wir begleiten dich bei jedem Schritt.
 Du kannst sofort mit deiner Digitalisierung starten, dafür musst du nur deine E-Mail bestätigen, indem du auf den Button unten klickst.

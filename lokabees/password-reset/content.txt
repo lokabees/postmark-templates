@@ -1,8 +1,8 @@
 ******************
-Hallo {{name}}
+Hallo {{name}},
 ******************
 
-Du hast uns gerade gebeten dein Passwort für dein Lokabees-Konto zurückzusetzen.
+du hast uns gerade gebeten dein Passwort für dein Lokabees-Konto zurückzusetzen.
 Füge einfach diesen Link in deinen Browser ein:
 
 {{action_url}}
